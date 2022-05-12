@@ -1,0 +1,47 @@
+#home{
+    height: 80vh;
+  }
+  
+  #about{
+
+  
+    height: 800px;
+}
+  
+  .headings{
+    font-size: 1.7rem;
+   
+    
+  }
+  
+  #intro{
+    width: 100%;
+    
+  }
+  #intro h2{
+   font-size: 1.5rem;
+  }
+  #intro p{
+    font-size: 1.5rem;
+  }
+  .input{
+    width: 80%;
+  }
+  #msg{
+    width: 70%;
+  }
+  #send{
+    width: 40%;
+  }
+  #btn{
+    width: 20%;
+    margin-left:9rem;
+  }
+  .navbar ul li{
+     
+      font-size: .8rem;
+  }
+  .navbar ul li a{
+    padding: 8px 15px;
+  }
+  
